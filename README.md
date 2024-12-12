@@ -44,6 +44,7 @@ I'm a software developer who loves turning complex ideas into elegant solutions.
 ![EVM](https://img.shields.io/badge/-EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ## 📬 Get in Touch
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/chinmoykalita01)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmoy-kalita/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chinmoykalita210@gmail.com)
 
