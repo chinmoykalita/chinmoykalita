@@ -4,8 +4,8 @@
 I'm a software developer who loves turning complex ideas into elegant solutions. My journey through tech has been driven by curiosity and a passion for creating meaningful products that make a difference. From AI platforms to blockchain innovations, I enjoy exploring the intersections of technology that can solve real-world challenges.
 
 ## 🏆 Professional Highlights
-- 🚀 Lead Engineer and Co-founder at Mido Finance, a liquid staking platform for green projects
 - 🏢 Currently Engineering at Headway.AI, a B2B2C talent platform
+- 🚀 Lead Engineer and Co-founder at Mido Finance, a liquid staking platform for green projects
 - 💡 Expertise in microservices architecture and high-performance system design
 - 🔬 Experience with AI and Web3 startups
 - 🛠️ Strong focus on optimizing database efficiency and system performance
