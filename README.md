@@ -16,7 +16,7 @@ Architect of intelligent systems. Builder at the edge of AI and Web3.
 
 ## Let's Connect
 
-[𝕏](https://x.com/chinmoykalita01) · [LinkedIn](https://www.linkedin.com/in/chinmoy-kalita/) · [Email](mailto:chinmoykalita210@gmail.com)
+[𝕏](https://x.com/cka_tech) · [LinkedIn](https://www.linkedin.com/in/chinmoy-kalita/) · [Email](mailto:chinmoykalita210@gmail.com)
 
 ---
 
